@@ -5,7 +5,7 @@
   - 📫 How to reach me: Check social links below.
 
 ## 🛠️ Languages and Tools
-![Alt text](https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg){: width="100" height="100"}
+<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="50" height="50" alt="React">
 
 ## ☕ Hit Me Up Here
 [Linkedin](https://www.linkedin.com/in/anirudhagarwal1997/)

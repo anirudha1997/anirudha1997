@@ -19,6 +19,6 @@
 ## ☕ Hit Me Up Here
 <p dir="auto">
 	<a href="https://www.linkedin.com/in/anirudhagarwal1997/" rel="nofollow">
-        <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" style="max-width: 100%;">
+        <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" style="width: 4%;">
     </a>
 </p>
